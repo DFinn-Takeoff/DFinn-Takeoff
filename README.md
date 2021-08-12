@@ -1,18 +1,6 @@
-### Hi there 👋
 
-**DFinn-Takeoff/DFinn-Takeoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- :wave:
-- :eyes:
-- :plant:
- 
-🔭 I’m currently working on building a Hugo-based engineering handbook site.
-- 🌱 I’m currently learning GO and GCP!
-- 👯 I’m looking to collaborate on anything.
-- 🤔 I’m looking for help with shortcodes.
-- 💬 Ask me about my ninja disguise.
-- 📫 How to reach me: through this repo or Takeoff's Slack instance.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I'm @DFinn-Takeoff. 
+- 👀 I'm interested in learning coding.
+- 🌱 I'm currently learning GCP and Golang.
+- 💞 I'm looking to collaborate on the Engineering Handbook!
+- 📫 How to reach me. Slack is the fastest, but I do check email as well.  
